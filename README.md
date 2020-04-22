@@ -5,14 +5,15 @@
 python coco_category_crawer.py 1 3 5
 
 則會爬
+
 https://www.coco01.today/category/1
 
 到 
 
-https://www.coco01.today/category/5
+https://www.coco01.today/category/3
 
 的資料 
-每個網頁會下滑五次
+每個網頁會下滑5次
 
 之後會生成 coco_title_category_1_to_3_MAX_5.csv
 
@@ -28,3 +29,4 @@ python coco_category_crawer.py 1 3
 
 的資料 
 
+之後會生成 coco_title_1_to_3.csv
