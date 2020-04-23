@@ -15,6 +15,8 @@ https://www.coco01.today/category/3
 的資料 
 每個網頁會下滑5次
 
+_Remark: category最多到121_
+
 之後會生成 coco_title_category_1_to_3_MAX_5.csv
 
 ## usage of crawer_for_Coco.py
